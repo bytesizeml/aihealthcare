@@ -38,7 +38,7 @@ Lectures go from June - August 2022 (last lecture is August 14th 2022)
 1. Medical Imaging - Use cases and models
 1. AI methods for cancer diagnosis
 1. Digital scribing in Health Care - Applications and models
-1. Interpretable and Explainable models in Health Care
+1. Interpretable & Explainable models in Health Care
 
 
 ### Course Assesments
