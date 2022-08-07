@@ -30,7 +30,7 @@
 | 5 | Anomaly and Change Point Detection | [Lecture 5](Lectures/Lecture_5_annotated.pdf) |
 | 6 | Anomalies in Sleep Monitoring + Deep Learning | [Lecture 6](Lectures/Lecture_6_annotated.pdf) |
 | 7 | Auto Encoders and DL for Health Care KPIs | [Lecture 7](Lectures/Lecture_7_annotated.pdf) |
-| 8 | Medical Imaging Use Cases [Lecture 8](Lectures/Lecture_8_annotated.pdf) |
+| 8 | Medical Imaging Use Cases | [Lecture 8](Lectures/Lecture_8_annotated.pdf) |
 | 9 | AI Methods for cancer diagnosis | [Lecture 9](Lectures/Lecture_9_annotated.pdf) |
 | 10 | Digital Scribing of Medical Records | [Lecture 10](Lectures/Lecture_10_annotated.pdf) |
 | 11 | NLP for Digital Scribing | [Lecture 11](Lectures/Lecture_11_annotated.pdf) |

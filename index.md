@@ -29,15 +29,16 @@ Lectures go from June - August 2022 (last lecture is August 14th 2022)
 ***
 
 1. Introduction and Applications
-1. Baseline models for Recommender Systems
-1. Matrix Factorization and Matrix Completion models
-1. Applications in product, movie and news recommendations
-1. Auto Encoder models - AutoRec, DeepRec, etc
-1. Multi Layer Perceptron and Deep Neural Network Models
-1. Recommendations-Ranking Models
-1. Applications and architecture of YouTube, Pinterest, Instagram recommendations
-1. Search Ranking: Learning to rank, Ranking Loss, Ranking metrics
-1. Neural models for Search Ranking
+1. Classifiers and applications in Health Care
+1. Data Transformations and Decision Trees, Random Forests
+1. Wearables and its applications in Health Care
+1. Anomaly and Change Point Detection
+1. Auto Encoders and Deep Learning in Health Care
+1. Sleep monitoring
+1. Medical Imaging - Use cases and models
+1. AI methods for cancer diagnosis
+1. Digital scribing in Health Care - Applications and models
+1. Interpretable and Explainable models in Health Care
 
 
 ### Course Assesments
