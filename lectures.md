@@ -1,4 +1,4 @@
-# Recommendation Systems Course | Summer 2022 
+# AI and Health Care Course | Spring 2022 
 
 ***
  
