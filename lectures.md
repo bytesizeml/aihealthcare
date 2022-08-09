@@ -11,7 +11,7 @@
 
 ***
 
-| [Home](index.md)  | [Lectures](lectures.md)       | [Code Snippets](code_snippets.md)      | [About me](karthik.md) |
+| [Home](index.md)  | [Lectures](lectures.md)       | [About me](karthik.md) |
 
 
 ***
@@ -44,6 +44,11 @@
 *** 
 
 1. Dr. Dushyant Sahani (Chair of Radiology, UW Medicine). <a href="https://www.youtube.com/watch?v=jbPYmjDsKzY&t=1s" target="_blank">YouTube Lecture Recording!</a>
+1. Dr. Shachi Mittal (Professor, Chemical Engineering, UW). <a href="https://www.youtube.com/watch?v=NNROWzWUfy8" target="_blank">YouTube Lecture Recording!</a>
+1. Dr. Saurav Shukla (Professor, Chemical Engineering, UW). <a href="https://www.youtube.com/watch?v=rB3jxQEiPwQ" target="_blank">YouTube Lecture Recording!</a>
+1. Dr. Shiksha Thakur (Ayurveda Practitioner, Seattle, WA). <a href="https://www.youtube.com/watch?v=czp7Y5hCDLM" target="_blank">YouTube Lecture Recording!</a>
+
+
 
 
 
